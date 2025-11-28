@@ -9,3 +9,6 @@ This space provides a glimpse into my journey as I navigate the fascinating inte
 *   **🧠 Artificial Intelligence & Information Processing:** I am deeply engaged with how machines can learn and process information. My focus is on Large Language Models (LLMs) and the broader field of information processing, driven by a desire to understand and harness the power of AI to solve complex problems and augment human intellect.
 
 *   **🔬 Neuroscience & Cognitive Psychology:** My ultimate fascination lies with the brain and the nature of consciousness. I am an avid learner in the fields of neuroscience and cognitive psychology, constantly seeking to understand the mechanisms of attention, perception, and what gives rise to our subjective experience. This interest informs my approach to AI, as I believe the path to truly intelligent systems lies in understanding the one truly intelligent system we know: the human brain.
+
+**I am currently channeling these interests into a practical project: building a lightweight Music Information Retrieval (MIR) system designed to integrate as a plugin for the [Quod Libet](https://github.com/quodlibet/quodlibet) music player.**
+
